@@ -1,4 +1,4 @@
-# starter-todo
+# comp-4711-lab5
 Starter project for COMP4711 lab 5
 
 It works out of the box, but is woefully incomplete :(
