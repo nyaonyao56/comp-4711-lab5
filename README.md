@@ -1,5 +1,5 @@
-# comp-4711-lab5
-Starter project for COMP4711 lab 5
+# comp-4711-lab6
+Starter project for COMP4711 lab 6
 
 It works out of the box, but is woefully incomplete :(
-Your job is to fix it, per lab 5 directions :)
+Your job is to fix it, per lab 6 directions :)
