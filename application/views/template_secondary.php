@@ -3,7 +3,6 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{pagetitle}</title>
-			{alerts}
         <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<!--
@@ -21,6 +20,7 @@
             </div>           
 		<div id="content">
 			<h1>{pagetitle}</h1>
+			{alerts}
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					{leftside}
