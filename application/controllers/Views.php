@@ -70,8 +70,6 @@ class Views extends Application
 		
 		$this->index();
 	}
-
-
 }
 // return -1, 0, or 1 of $a's priority is higher, equal to, or lower than $b's
 function orderByPriority($a, $b)
