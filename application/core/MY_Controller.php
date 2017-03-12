@@ -31,7 +31,7 @@ class Application extends CI_Controller
 	// Add an alert to the rendered page
 	function alert($message = '', $context = 'success') {
 		$parms = ['message' => $message, 'context' => $context];
-		$this->data['alerts'] = $this->parser->parse('_alert', $parms, true);
+		$this->data['alerts'] .= $this->parser->parse('_alert', $parms, true);
 		$this->error_free = FALSE;
 	}
 
